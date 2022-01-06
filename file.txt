@@ -6,3 +6,5 @@ On branch feature-branch
 Test branch release
 
 fix bug
+
+hotfix1
