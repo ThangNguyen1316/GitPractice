@@ -2,3 +2,5 @@ Test
 
 
 On branch feature-branch
+
+Test branch release
