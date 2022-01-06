@@ -4,3 +4,5 @@ Test
 On branch feature-branch
 
 Test branch release
+
+fix bug
